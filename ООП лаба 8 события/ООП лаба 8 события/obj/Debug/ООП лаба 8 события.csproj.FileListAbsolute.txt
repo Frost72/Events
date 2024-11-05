@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\bin\Debug\ООП лаба 8 события.exe.config
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\bin\Debug\ООП лаба 8 события.exe
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\bin\Debug\ООП лаба 8 события.pdb
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\obj\Debug\ООП лаба 8 события.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\obj\Debug\ООП лаба 8 события.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\obj\Debug\ООП лаба 8 события.exe
+C:\Users\sasha\source\repos\ООП лаба 8 события\ООП лаба 8 события\obj\Debug\ООП лаба 8 события.pdb
